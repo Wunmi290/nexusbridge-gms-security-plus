@@ -2,14 +2,15 @@
 
 **Project Title:** Cryptography and PKI Controls Reference Guide for NexusBridge Grant Management System
 **System Reference:** NexusBridge Grant Management System (GMS) | DOE-NB-GMS-2024-MOD
-**Framework / Standard:** NIST SP 800-57 Part 1 Rev 5 | NIST SP 800-52 Rev 2 | CompTIA Security+ SY0-701 Domain 3
+**Framework / Standard:** NIST SP 800-57 Part 1 Rev 5 | NIST SP 800-52 Rev 2
+**Security Domain:** Security Architecture
 **Author:** Omowumi Adisa, ISSO, NexusBridge Technologies
 **Date:** May 2024
 **Status:** Complete
 
 ## Purpose
 
-Cryptography is one of the most tested areas on the CompTIA Security+ SY0-701 exam and one of the most critical components of federal information system security. This document serves as a practical reference guide for all cryptographic controls deployed in NexusBridge GMS, mapping each control to the specific use case, algorithm, key length, and relevant NIST guidance.
+Cryptography is one of the most critical components of federal information system security and a core topic across the Security+ domains. This document serves as a practical reference guide for all cryptographic controls deployed in NexusBridge GMS, mapping each control to the specific use case, algorithm, key length, and relevant NIST guidance.
 
 ## Section 1: Cryptography Inventory for NexusBridge GMS
 
