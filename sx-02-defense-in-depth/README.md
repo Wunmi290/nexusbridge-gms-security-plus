@@ -2,7 +2,8 @@
 
 **Project Title:** Defense-in-Depth Security Architecture for NexusBridge Grant Management System
 **System Reference:** NexusBridge Grant Management System (GMS) | DOE-NB-GMS-2024-MOD
-**Framework / Standard:** NIST SP 800-53 Rev 5 | CompTIA Security+ SY0-701 Domain 2 (Threats, Vulnerabilities, and Mitigations)
+**Framework / Standard:** NIST SP 800-53 Rev 5
+**Security Domain:** Threats, Vulnerabilities, and Mitigations
 **Author:** Omowumi Adisa, ISSO, NexusBridge Technologies
 **Date:** May 2024
 **Status:** Complete
