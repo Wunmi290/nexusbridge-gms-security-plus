@@ -1,7 +1,7 @@
 # SX-04a: Incident Response Playbook: Phishing Attack
 
 **System Reference:** NexusBridge Grant Management System (GMS) | DOE-NB-GMS-2024-MOD
-**CompTIA Security+ Domain 4:** Security Operations
+**Security Domain:** Security Operations
 **Framework Alignment:** NIST SP 800-61 Rev 2, NIST SP 800-53 IR Family
 **Classification:** Controlled Unclassified Information (CUI)
 
