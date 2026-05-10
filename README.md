@@ -1,11 +1,20 @@
-# NexusBridge GMS: CompTIA Security+ SY0-701 Domain Portfolio
+# NexusBridge GMS: Security Domain Portfolio
+
+## Domains Covered
+
+- General Security Concepts
+- Threats, Vulnerabilities, and Mitigations
+- Security Architecture
+- Security Operations
+- Security Program Management and Oversight
+
 ## Practical Security Concepts Applied to a Federal Grants Management Platform
 
 ## About This Repository
 
-This repository demonstrates practical application of CompTIA Security+ SY0-701 domain knowledge using the NexusBridge Grant Management System (GMS) as a real-world scenario. Each project is grounded in specific NexusBridge GMS system details and maps to one or more Security+ exam domains.
+This repository demonstrates practical application of Security+ domain knowledge using the NexusBridge Grant Management System (GMS) as a real-world scenario. Each project is grounded in specific NexusBridge GMS system details and maps to one or more of the five Security+ domains.
 
-These projects are designed to show that Omowumi Adisa can not only answer exam questions but apply Security+ concepts to realistic federal grants management IT systems. Every project uses actual tool outputs, realistic findings, and specific system context rather than generic examples.
+These projects are designed to show that Omowumi Adisa can not only answer exam questions but apply security concepts to realistic federal grants management IT systems. Every project uses actual tool outputs, realistic findings, and specific system context rather than generic examples.
 
 ## System Overview
 
@@ -55,7 +64,7 @@ nexusbridge-gms-security-plus/
 | SX-04b | IAM Access Review and Provisioning Workflow | Domain 4: Security Operations | Complete |
 | SX-05 | GRC Program Overview (AUP, HIPAA-GDPR mapping, risk, compliance dashboard) | Domain 5: Security Program Management and Oversight | Complete |
 
-## Security+ SY0-701 Domain Coverage
+## Security Domain Coverage
 
 | Domain | Name | Weight | Covered By |
 |---|---|---|---|
@@ -78,7 +87,7 @@ nexusbridge-gms-security-plus/
 |---|---|---|---|
 | nexusbridge-gms-fedramp-rmf | FedRAMP Moderate / NIST RMF | 7 | Complete |
 | nexusbridge-gms-iso27001 | ISO 27001:2022 / ISO 27005 | 6 | Complete |
-| nexusbridge-gms-security-plus | CompTIA Security+ SY0-701 | 6 | Complete |
+| nexusbridge-gms-security-plus | General Security Concepts, Threats/Vulnerabilities/Mitigations, Security Architecture, Security Operations, Security Program Management and Oversight | 6 | Complete |
 
 ## About the Author
 
