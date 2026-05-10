@@ -1,7 +1,7 @@
 # SX-05: GRC Program Overview
 
 **System Reference:** NexusBridge Grant Management System (GMS) | DOE-NB-GMS-2024-MOD
-**CompTIA Security+ Domain 5:** Security Program Management and Oversight
+**Security Domain:** Security Program Management and Oversight
 **Framework Alignment:** NIST SP 800-53 Rev 5, FedRAMP Moderate, Privacy Act of 1974, OMB A-130
 **Classification:** Controlled Unclassified Information (CUI)
 
