@@ -1,7 +1,7 @@
 # SX-04b: IAM Access Review and Provisioning Workflow
 
 **System Reference:** NexusBridge Grant Management System (GMS) | DOE-NB-GMS-2024-MOD
-**CompTIA Security+ Domain 4:** Security Operations
+**Security Domain:** Security Operations
 **Framework Alignment:** NIST SP 800-53 AC/IA Families, FedRAMP Moderate Baseline
 **Classification:** Controlled Unclassified Information (CUI)
 
